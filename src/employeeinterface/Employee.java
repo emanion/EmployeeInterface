@@ -8,7 +8,7 @@
 public interface Employee
 {
     /**
-     * Start Time and End Time
+     * Start Time and End Time - abstract methods
      * 
      * @param  y    a sample parameter for a method
      * @return        the result produced by sampleMethod 
